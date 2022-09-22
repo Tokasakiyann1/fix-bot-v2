@@ -119,7 +119,7 @@ global.author = '                [yann  あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/XZrK6yQ/transformers.jpg' //Main Thumbnail
+global.thumb = 'Proyek Baru 8 [9A917D0].png' //Main Thumbnail
 global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
